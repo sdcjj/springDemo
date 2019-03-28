@@ -1,0 +1,26 @@
+1.volatile有什么用？
+
+2.Minor GC和Full GC的触发时机
+
+3.反射用到了哪些接口，哪些类？
+
+4.反射机制中可以获取private成员的值吗？
+
+5.Java中sleep方法和wait方法的区别
+
+6.Java中有哪些注解?在SpringMVC中，requestmapping是自定义注
+解，问：如何实现自定义注解？
+
+网易JAVA程序员二面
+
+1.线程池，threadpool有哪些重要的参数？
+
+2.http协议头有哪些字段？
+
+3.oracle如何实现分页（手写）
+
+4.SpringMVC在处理前端页面请求时，各模块是如何工作的？
+
+5.数据库索引有什么作用?带来的问题是什么？
+
+6.以前有没有用过Java枚举
